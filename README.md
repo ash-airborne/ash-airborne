@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ash-airborne
+- 👀 I’m interested in Combining different technologies and seeing how they work.
+- 🌱 I’m currently learning Full Stack Web Development on MERN Stack.
+- 💞️ I’m looking to collaborate on a recommendation enigne(ML) for news articles.
+- 📫 How to reach me on instagram and twitter, my @ash_airborne. My PSN ID is AshTwoDash.
