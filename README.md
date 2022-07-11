@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ash-airborne, just 'airborne" would be fine though!
+- 👋 Hi, I’m Ashish 'airborne' Das!
 - 👀 I’m interested in Combining different technologies and learning how they work.
-- 🌱 I’m currently working as a Trainee Data Engineer (Big Data, Data analytics and Cloud) for Futurense Technologies, Bangalore.
-- 📫 Reach me on Instagram, Twitter, and Snapchat: @ash_airborne. My Playstation ID is AshTwoDash 🎮🎮.
+- 🌱 I’m currently working as a Data Engineer (Big Data, Data analytics and Cloud) for Futurense Technologies, Bangalore.
+- 📫 If you're on PSN hit me up I'm AshTwoDash 🎮.
